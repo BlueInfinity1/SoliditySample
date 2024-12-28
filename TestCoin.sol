@@ -1,3 +1,6 @@
+// A test coin implementation with minting, burning, and standard ERC20 capabilities.
+// Provides an example of an ERC20 token with additional owner-controlled minting.
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
